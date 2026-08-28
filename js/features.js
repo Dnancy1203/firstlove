@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://mp3tourl.com/audio/1787918559012-5536e5b8-3504-48d8-8a64-da5be118b543.m4a';
+    var SRC = 'https://imgbed.heliar.top/i/IdwwrEgh90K6Ulfy_silence_9h.m4a';
     var _audio = null;
     var _unlockBound = false;
 
